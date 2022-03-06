@@ -7,7 +7,7 @@ const config = {
 
     nickname: "habacha.ooo", // nickname(optional)
 
-    pic: "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/274936831_1126533974763308_8433871080831281952_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=ae9488&_nc_ohc=potsfJlQvGsAX8OarLR&tn=6ipyD632jtysXEpS&_nc_ht=scontent.fsgn5-3.fna&oh=03_AVIUbfRKU05KgTh7p1oFAUM5hUS5DEpYfwnICePxIdCcmQ&oe=6248B83D", //image url of recipients (Mandatory)
+    pic: "https://scontent.fsgn5-13.fna.fbcdn.net/v/t1.15752-9/275182391_259515633049332_1504177811654290895_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=ae9488&_nc_ohc=TZQw-AO_Hv8AX_jNZvk&_nc_ht=scontent.fsgn5-13.fna&oh=03_AVL2JNCDDZxinL1rO1n4FUFbaxf81qpn1GsM-4AFFyXZKQ&oe=624902D5", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
